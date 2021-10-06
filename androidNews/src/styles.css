@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+:root{
+  --cor0: #c5ebd6;
+  --cor1: #83e1ad;
+  --cor2: #3ddc84;
+  --cor3: #2fa866;
+  --cor4: #1a5c37;
+  --cor5: #063d1e;
+
+  --default-font: Arial, Verdana, Helvetica, sans-serif;
+  --primary-font: 'Bebas Neue', cursive;
+  --android-font: 'Android', cursive;
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
