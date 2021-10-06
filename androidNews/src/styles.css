@@ -1,4 +1,8 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
+@font-face {
+    font-family: 'Android';
+    font-weight: normal;
+}
 :root{
   --cor0: #c5ebd6;
   --cor1: #83e1ad;
